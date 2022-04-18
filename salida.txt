@@ -1,0 +1,3 @@
+Lo leido es: 2
+Lo leido es: 4
+Lo leido es: 6
